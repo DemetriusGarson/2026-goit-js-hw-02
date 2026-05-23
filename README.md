@@ -1,2 +1,2 @@
-# 2026-goit-js-hw-01
-JS_HomeWork#1
+# 2026-goit-js-hw-02
+JS_HomeWork#2
